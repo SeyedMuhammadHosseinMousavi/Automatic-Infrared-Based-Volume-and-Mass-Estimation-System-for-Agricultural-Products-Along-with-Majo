@@ -1,6 +1,6 @@
-#Automatic Infrared-Based Volume and Mass Estimation System for Agricultural Products
+# Automatic Infrared-Based Volume and Mass Estimation System for Agricultural Products
 
-###Link to the paper:
+### Link to the paper:
 - https://ieeexplore.ieee.org/document/9721526
 - DOI: https://doi.org/10.1109/ICCKE54056.2021.9721526
 ### Link to the dataset:

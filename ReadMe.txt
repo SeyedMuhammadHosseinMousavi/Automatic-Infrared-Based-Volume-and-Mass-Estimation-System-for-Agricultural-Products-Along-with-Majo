@@ -1,6 +1,6 @@
-# Automatic Infrared-Based Volume and Mass Estimation System for Agricultural Products
+#Automatic Infrared-Based Volume and Mass Estimation System for Agricultural Products
 
-### Link to the paper:
+###Link to the paper:
 - https://ieeexplore.ieee.org/document/9721526
 - DOI: https://doi.org/10.1109/ICCKE54056.2021.9721526
 ### Link to the dataset:
@@ -14,6 +14,8 @@ This repository provides the implementation and detailed methodology of the rese
 **"Automatic Infrared-Based Volume and Mass Estimation System for Agricultural Products Along with Major Geometrical Properties"**.
 
 The paper proposes a robust system for estimating the **volume** and **mass** of agricultural products using RGB-D (Red-Green-Blue and Depth) images, specifically leveraging depth data captured via a Kinect v2 sensor. The system improves upon traditional and recent methods, offering **high accuracy**, **real-time performance**, and the ability to work under **pure darkness** conditions.
+
+
 
 ---
 

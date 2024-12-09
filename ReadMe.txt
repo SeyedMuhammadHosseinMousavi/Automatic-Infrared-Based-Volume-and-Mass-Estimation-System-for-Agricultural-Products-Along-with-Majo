@@ -5,6 +5,7 @@
 - DOI: https://doi.org/10.1109/ICCKE54056.2021.9721526
 ### Link to the dataset:
 - https://www.kaggle.com/datasets/hosseinmousavi/infraredbased-volume-and-mass-estimation-system
+
 ### Please cite:
 Mousavi, Seyed Muhammad Hossein, and S. Muhammad Hassan Mosavi. "Automatic Infrared-Based Volume and Mass Estimation System for Agricultural Products: Along with Major Geometrical Properties." 2021 11th International Conference on Computer Engineering and Knowledge (ICCKE). IEEE, 2021.
 
@@ -14,8 +15,6 @@ This repository provides the implementation and detailed methodology of the rese
 **"Automatic Infrared-Based Volume and Mass Estimation System for Agricultural Products Along with Major Geometrical Properties"**.
 
 The paper proposes a robust system for estimating the **volume** and **mass** of agricultural products using RGB-D (Red-Green-Blue and Depth) images, specifically leveraging depth data captured via a Kinect v2 sensor. The system improves upon traditional and recent methods, offering **high accuracy**, **real-time performance**, and the ability to work under **pure darkness** conditions.
-
-
 
 ---
 
@@ -45,7 +44,6 @@ The paper proposes a robust system for estimating the **volume** and **mass** of
 - [Experimental Setup](#experimental-setup)
 - [Results and Validation](#results-and-validation)
 - [Future Work](#future-work)
-
 
 ---
 
